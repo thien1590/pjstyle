@@ -1,0 +1,154 @@
+/*home css*/
+.rit-item-masonry .rit-text-content {
+    width: 360px;
+    min-height: 360px;
+    padding: 40px;
+    line-height: 30px;
+    font-size: 20px;
+    max-width: 100%
+}
+.rit-item-masonry {
+    float: left;
+    padding: 15px;
+    transform: scale(1);
+    opacity: 1;
+    transition: all 400ms;
+    max-width: 100%;
+}
+
+.rit-text-content .btn-home {
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 0
+}
+.btn-black {
+    border: 3px solid #000;
+    color: #000;
+}
+.btn-black:hover {
+    background: #000;
+    color: #fff
+}
+.rit-masonry-mask {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 0;
+    transition: all 800ms;
+    padding: 15px;
+}
+
+.rit-item-masonry:hover .rit-masonry-mask {
+    cursor: pointer;
+    z-index: 99;
+    opacity: 1
+}
+
+.rit-wrapper-mask {
+    background: rgba(255, 255, 255, 0.8);
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 100%
+}
+
+.rit-wrapper-mask h3, .rit-wrapper-mask h4 {
+    text-align: center;
+    color: #000
+}
+
+.rit-wrapper-mask a {
+    color: #333
+}
+
+.rit-wrapper-mask a:hover {
+    text-decoration: underline
+}
+
+.rit-wrapper-mask .rit-cat a {
+    font-style: italic
+}
+
+.rit-wrapper-mask .rit-title {
+    position: absolute;
+    left: 0;
+    bottom: 55%;
+    opacity: 0;
+    width: 100%;
+    transition: all 600ms ease-in-out;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    margin-bottom: 0;
+    margin-top:-20px
+}
+
+.rit-item-masonry:hover .rit-wrapper-mask .rit-title {
+    opacity: 1;
+    bottom: 50%;
+}
+
+.rit-wrapper-mask .rit-cat {
+    position: absolute;
+    left: 0;
+    top: 55%;
+    opacity: 0;
+    width: 100%;
+    margin-bottom: -20px;
+    transition: all 600ms ease-in-out;
+    font-size: 14px;
+    letter-spacing: 3px;
+}
+
+.rit-item-masonry:hover .rit-wrapper-mask .rit-cat {
+    opacity: 1;
+    top: 50%;
+}
+
+#rit-masonry-filter {
+    width: 100%;
+    display: block;
+    padding: 10px 0;
+    text-align: center
+}
+
+#rit-masonry-filter li {
+    padding: 8px 20px;
+    border: 1px solid #333;
+    color: #333;
+    display: inline;
+    margin: 0 5px 0 0;
+    text-transform: uppercase;
+}
+
+#rit-masonry-filter li:hover, #rit-masonry-filter li.active {
+    color: #fff;
+    background: #333;
+    cursor: pointer
+}
+
+.rit_hide_item {
+    transform: scale(0);
+    opacity: 0;
+    width: 0;
+    padding: 0;
+    overflow: hidden;
+}
+@media (min-width: 480px) and (max-width: 767px) {
+    .grid-3 .rit-item-masonry{
+        width: 50%;
+    }
+}
+@media (min-width: 320px) and (max-width: 480px) {
+    .grid-3 .rit-item-masonry{
+        width: 100%;
+    }
+}
+
+/*End home css*/

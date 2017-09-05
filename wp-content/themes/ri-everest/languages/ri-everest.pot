@@ -1,0 +1,1275 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-17 01:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21 404.php:21
+msgid "back to homepage"
+msgstr ""
+
+#: archive.php:70 category.php:74 index.php:74 search.php:55
+msgid "Newer posts"
+msgstr ""
+
+#: archive.php:71 category.php:73 index.php:75 search.php:54
+msgid "Older posts"
+msgstr ""
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:25
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:26 content-default.php:109 content-single.php:103
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:26 content-default.php:109 content-single.php:103
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:26 content-default.php:109 content-single.php:103
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:48
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:51
+msgid ""
+"Logged in as <a href=\"%1$s\" class=\"primary-font\">%2$s</a>. <a "
+"href=\"%3$s\"  class=\"primary-font\" title=\"Log out of this account\">Log "
+"out?</a>"
+msgstr ""
+
+#: comments.php:54
+msgid "Your Name*"
+msgstr ""
+
+#: comments.php:55
+msgid "Email*"
+msgstr ""
+
+#: comments.php:56
+msgid "Website*"
+msgstr ""
+
+#: comments.php:57
+msgid "Messenger*"
+msgstr ""
+
+#: content-default.php:102 content-large.php:87 
+#: rit-core/shortcode-blog-large.php:76 rit-core/shortcode-blog-medium.php:74
+msgid "Continue reading..."
+msgstr ""
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:22
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content-page.php:15
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:19
+msgid "Page"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: content-page.php:23 included/theme-function/rit-function.php:273
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:97 content.php:108
+msgid "Tags: "
+msgstr ""
+
+#: content.php:66 content.php:66 rit-core/shortcode-blog-carousel.php:125
+msgid "Read more"
+msgstr ""
+
+#: footer.php:33
+msgid "Show More"
+msgstr ""
+
+#: functions.php:78
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:79
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:80
+msgid "Second Menu"
+msgstr ""
+
+#: functions.php:81
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:168
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:169
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:365
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:366
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:367
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:368
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:369
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:374
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:379
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:384
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:389
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:394
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:399
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:404
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:409
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:414
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:419
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:424
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:429
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:430
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:431
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: functions.php:432
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: functions.php:433
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: functions.php:434
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: functions.php:435
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: header.php:35 included/widgets/search.php:30 
+#: included/templates/header/header-center.php:38
+msgid "Search..."
+msgstr ""
+
+#: search.php:29
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+#: included/meta-box/meta-boxes.php:98
+msgid "Full width"
+msgstr ""
+
+#: rit-core/shortcode-blog-carousel.php:116
+msgid "read more"
+msgstr ""
+
+#: rit-core/shortcode-blog-carousel.php:145 
+#: rit-core/shortcode-blog-grid.php:104 rit-core/shortcode-blog-large.php:97 
+#: rit-core/shortcode-blog-medium.php:105 rit-core/shortcode-product.php:169 
+#: rit-core/shortcode-recent-post.php:81
+msgid "Load more"
+msgstr ""
+
+#: rit-core/shortcode-blog-grid.php:85
+msgid "Read more "
+msgstr ""
+
+#: woocommerce/archive-product.php:103
+msgid "Filter"
+msgstr ""
+
+#: woocommerce/content-product-related.php:55 
+#: woocommerce/content-product.php:64 
+#: rit-core/woocommerce-item/grid-item.php:61 
+#: rit-core/woocommerce-item/list-item.php:38
+msgid "New"
+msgstr ""
+
+#: woocommerce/top-wishlist.php:114
+msgid "Your wishlist is currently empty."
+msgstr ""
+
+#: woocommerce/top-wishlist.php:122
+msgid "My wishlist"
+msgstr ""
+
+#: woocommerce/woo-functions.php:65
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: included/customize/customizes.php:15 included/meta-box/meta-boxes.php:179 
+#: included/meta-box/meta-boxes.php:185
+msgid "Header Options"
+msgstr ""
+
+#: included/customize/customizes.php:21
+msgid "Enable Sticky header"
+msgstr ""
+
+#: included/customize/customizes.php:27
+msgid "Choose Header Style"
+msgstr ""
+
+#: included/customize/customizes.php:31 included/meta-box/meta-boxes.php:190
+msgid "Header Default"
+msgstr ""
+
+#: included/customize/customizes.php:32
+msgid "Header Default style 2"
+msgstr ""
+
+#: included/customize/customizes.php:33
+msgid "Header Default style 3"
+msgstr ""
+
+#: included/customize/customizes.php:34 included/meta-box/meta-boxes.php:193
+msgid "Header One line"
+msgstr ""
+
+#: included/customize/customizes.php:35 included/meta-box/meta-boxes.php:194
+msgid "Header One line 2"
+msgstr ""
+
+#: included/customize/customizes.php:36 included/meta-box/meta-boxes.php:195
+msgid "Header Transparent"
+msgstr ""
+
+#: included/customize/customizes.php:45 included/meta-box/meta-boxes.php:243 
+#: included/meta-box/meta-boxes.php:249
+msgid "Footer Options"
+msgstr ""
+
+#: included/customize/customizes.php:51
+msgid "Enable Footer fixed"
+msgstr ""
+
+#: included/customize/customizes.php:57
+msgid "Choose Footer Style"
+msgstr ""
+
+#: included/customize/customizes.php:61
+msgid "Footer Default"
+msgstr ""
+
+#: included/customize/customizes.php:62
+msgid "Footer Default Style 2"
+msgstr ""
+
+#: included/customize/customizes.php:63
+msgid "Footer White style"
+msgstr ""
+
+#: included/customize/customizes.php:64 included/meta-box/meta-boxes.php:257
+msgid "Dark style"
+msgstr ""
+
+#: included/customize/customizes.php:72
+msgid "Export/Import"
+msgstr ""
+
+#: included/customize/customizes.php:82
+msgid "Default Meta Options"
+msgstr ""
+
+#: included/customize/customizes.php:88
+msgid "Enable Custom Font & Color"
+msgstr ""
+
+#: included/customize/customizes.php:94
+msgid "Default preset styles"
+msgstr ""
+
+#: included/customize/customizes.php:98 included/customize/customizes.php:114 
+#: included/customize/customizes.php:328 included/meta-box/meta-boxes.php:47
+msgid "Default"
+msgstr ""
+
+#: included/customize/customizes.php:99 included/meta-box/meta-boxes.php:50
+msgid "Red"
+msgstr ""
+
+#: included/customize/customizes.php:100 included/meta-box/meta-boxes.php:49
+msgid "Green"
+msgstr ""
+
+#: included/customize/customizes.php:101 included/meta-box/meta-boxes.php:48
+msgid "Pink"
+msgstr ""
+
+#: included/customize/customizes.php:102 included/meta-box/meta-boxes.php:51
+msgid "GoldenRod"
+msgstr ""
+
+#: included/customize/customizes.php:110
+msgid "Default Blog Layout Config"
+msgstr ""
+
+#: included/customize/customizes.php:115
+msgid "Large"
+msgstr ""
+
+#: included/customize/customizes.php:123
+msgid "Default Sidebar Config"
+msgstr ""
+
+#: included/customize/customizes.php:127 included/customize/customizes.php:265 
+#: included/meta-box/meta-boxes.php:224
+msgid "No Sidebar"
+msgstr ""
+
+#: included/customize/customizes.php:128 included/customize/customizes.php:266 
+#: included/meta-box/meta-boxes.php:225 included/meta-box/meta-boxes.php:233
+msgid "Left Sidebar"
+msgstr ""
+
+#: included/customize/customizes.php:129 included/customize/customizes.php:267 
+#: included/meta-box/meta-boxes.php:226 included/meta-box/meta-boxes.php:238
+msgid "Right Sidebar"
+msgstr ""
+
+#: included/customize/customizes.php:130 included/customize/customizes.php:268 
+#: included/meta-box/meta-boxes.php:227
+msgid "Both Sidebar"
+msgstr ""
+
+#: included/customize/customizes.php:138
+msgid "Default Left Sidebar"
+msgstr ""
+
+#: included/customize/customizes.php:149
+msgid "Default Right Sidebar"
+msgstr ""
+
+#: included/customize/customizes.php:161
+msgid "Font Size Options"
+msgstr ""
+
+#: included/customize/customizes.php:167
+msgid "Body Font"
+msgstr ""
+
+#: included/customize/customizes.php:171
+msgid "Standard"
+msgstr ""
+
+#: included/customize/customizes.php:172
+msgid "Google"
+msgstr ""
+
+#: included/customize/customizes.php:180
+msgid "Body Standard Font"
+msgstr ""
+
+#: included/customize/customizes.php:184 included/customize/customizes.php:208
+msgid "Arial"
+msgstr ""
+
+#: included/customize/customizes.php:185 included/customize/customizes.php:209
+msgid "Courier New"
+msgstr ""
+
+#: included/customize/customizes.php:186 included/customize/customizes.php:210
+msgid "Georgia"
+msgstr ""
+
+#: included/customize/customizes.php:187 included/customize/customizes.php:211
+msgid "Helvetica"
+msgstr ""
+
+#: included/customize/customizes.php:188 included/customize/customizes.php:212
+msgid "Lucida Sans"
+msgstr ""
+
+#: included/customize/customizes.php:189 included/customize/customizes.php:213
+msgid "Lucida Sans Unicode"
+msgstr ""
+
+#: included/customize/customizes.php:190 included/customize/customizes.php:214
+msgid "Myriad Pro"
+msgstr ""
+
+#: included/customize/customizes.php:191 included/customize/customizes.php:215
+msgid "Palatino Linotype"
+msgstr ""
+
+#: included/customize/customizes.php:192 included/customize/customizes.php:216
+msgid "Tahoma"
+msgstr ""
+
+#: included/customize/customizes.php:193 included/customize/customizes.php:217
+msgid "Times New Roman"
+msgstr ""
+
+#: included/customize/customizes.php:194 included/customize/customizes.php:218
+msgid "Trebuchet MS"
+msgstr ""
+
+#: included/customize/customizes.php:195 included/customize/customizes.php:219
+msgid "Verdana"
+msgstr ""
+
+#: included/customize/customizes.php:204
+msgid "Special Standard Font"
+msgstr ""
+
+#: included/customize/customizes.php:229
+msgid "Body Google Font"
+msgstr ""
+
+#: included/customize/customizes.php:237 included/customize/customizes.php:245
+msgid "Special Google Font"
+msgstr ""
+
+#: included/customize/customizes.php:255
+msgid "Custom product sidebar"
+msgstr ""
+
+#: included/customize/customizes.php:261
+msgid "Default Product Sidebar Config"
+msgstr ""
+
+#: included/customize/customizes.php:276
+msgid "Default Product Left Sidebar"
+msgstr ""
+
+#: included/customize/customizes.php:287
+msgid "Default Product Right Sidebar"
+msgstr ""
+
+#: included/customize/customizes.php:299 included/customize/customizes.php:412
+msgid "Custom product display"
+msgstr ""
+
+#: included/customize/customizes.php:305
+msgid "Hide cart"
+msgstr ""
+
+#: included/customize/customizes.php:306
+msgid "Hide cart button in shop page"
+msgstr ""
+
+#: included/customize/customizes.php:311
+msgid "Default product Layout"
+msgstr ""
+
+#: included/customize/customizes.php:315
+msgid "Grid"
+msgstr ""
+
+#: included/customize/customizes.php:316
+msgid "List"
+msgstr ""
+
+#: included/customize/customizes.php:324
+msgid "Default product style"
+msgstr ""
+
+#: included/customize/customizes.php:329
+msgid "Style 1"
+msgstr ""
+
+#: included/customize/customizes.php:330
+msgid "Style 2"
+msgstr ""
+
+#: included/customize/customizes.php:331
+msgid "Style 3"
+msgstr ""
+
+#: included/customize/customizes.php:332
+msgid "Style 4"
+msgstr ""
+
+#: included/customize/customizes.php:333
+msgid "Style 5"
+msgstr ""
+
+#: included/customize/customizes.php:341
+msgid "Columns min width"
+msgstr ""
+
+#: included/customize/customizes.php:342
+msgid "Min width of column, help make smart layout."
+msgstr ""
+
+#: included/customize/customizes.php:350
+msgid "Days for new label"
+msgstr ""
+
+#: included/customize/customizes.php:359
+msgid "Default number products display"
+msgstr ""
+
+#: included/customize/customizes.php:368
+msgid "Default number products related display"
+msgstr ""
+
+#: included/customize/customizes.php:377
+msgid "Default number products related display per row"
+msgstr ""
+
+#: included/customize/customizes.php:381
+msgid "1"
+msgstr ""
+
+#: included/customize/customizes.php:382
+msgid "2"
+msgstr ""
+
+#: included/customize/customizes.php:383
+msgid "3"
+msgstr ""
+
+#: included/customize/customizes.php:384
+msgid "4"
+msgstr ""
+
+#: included/customize/customizes.php:385
+msgid "5"
+msgstr ""
+
+#: included/customize/customizes.php:386
+msgid "6"
+msgstr ""
+
+#: included/customize/customizes.php:394
+msgid "Enable slider related product"
+msgstr ""
+
+#: included/customize/customizes.php:398 included/widgets/img-hover.php:158
+msgid "Yes"
+msgstr ""
+
+#: included/customize/customizes.php:399 included/widgets/img-hover.php:161
+msgid "No"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:37
+msgid "Page Background Options"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:42
+msgid "Preset Style"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:58
+msgid "Background Image"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:59
+msgid "The image that will be used as the INNER page background image."
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:65
+msgid "Background Color"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:66
+msgid "Background color of page, post."
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:71
+msgid "Background Position"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:72
+msgid "Position of background image."
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:76
+msgid "Center Top"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:77
+msgid "Center Center"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:78
+msgid "Center Bottom"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:79
+msgid "Left Top"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:80
+msgid "Left Center"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:81
+msgid "Left Bottom"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:82
+msgid "Right Top"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:83
+msgid "Right Center"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:84
+msgid "Right Bottom"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:91
+msgid "Background Image Size"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:92
+msgid "For background image size."
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:96
+msgid "Cover"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:97
+msgid "Contain"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:104
+msgid "Background Image Repeat"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:105
+msgid "For repeating patterns, choose Repeat."
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:109
+msgid "No Repeat"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:110
+msgid "Repeat"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:119
+msgid "Meta Options"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:124
+msgid "Logo page"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:130
+msgid "Logo for page"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:137
+msgid "Logo height"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:143
+msgid "Logo padding top"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:149
+msgid "Logo padding bottom"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:155
+msgid "Title Options"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:161
+msgid "Disible Title"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:167
+msgid "Slider Options"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:173
+msgid "Slider shortcode"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:176
+msgid "Enter slider shortcode here."
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:189 included/meta-box/meta-boxes.php:223 
+#: included/meta-box/meta-boxes.php:253
+msgid "Use Default"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:191
+msgid "Header Default Style 2"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:192
+msgid "Header Default Style 3"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:198
+msgid "Choose Options Header."
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:201
+msgid "Header Sticky"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:203
+msgid "Enable header sticky."
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:207
+msgid "Disable breadcrumb"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:209
+msgid "Disable breadcrumb."
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:213 included/meta-box/meta-boxes.php:219
+msgid "Sidebar Options"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:230
+msgid "Choose Options Sidebar."
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:254
+msgid "Default style"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:255
+msgid "Default style 2"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:256
+msgid "White style"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:262
+msgid "Choose Options Footer Options."
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:265
+msgid "Footer fixed"
+msgstr ""
+
+#: included/meta-box/meta-boxes.php:267
+msgid "Enable footer fixed."
+msgstr ""
+
+#: included/templates/post_pagination.php:15
+msgid "Previous post"
+msgstr ""
+
+#: included/templates/post_pagination.php:29
+msgid "Next post"
+msgstr ""
+
+#: included/templates/related_posts.php:25
+msgid "Related posts"
+msgstr ""
+
+#: included/templates/search.php:11
+msgid "Search for products..."
+msgstr ""
+
+#: included/templates/search.php:35 included/widgets/recent-post-sidebar.php:56 
+#: included/widgets/recent-post.php:111
+msgid "All categories"
+msgstr ""
+
+#: included/templates/share.php:4 woocommerce/single-product/share.php:21
+msgid "Share to facebook"
+msgstr ""
+
+#: included/templates/share.php:6 woocommerce/single-product/share.php:23
+msgid "Share to twitter"
+msgstr ""
+
+#: included/templates/share.php:8 woocommerce/single-product/share.php:25
+msgid "Share to google plus"
+msgstr ""
+
+#: included/templates/share.php:9 woocommerce/single-product/share.php:26
+msgid "Share to pinterest"
+msgstr ""
+
+#: included/templates/share.php:10 woocommerce/single-product/share.php:27
+msgid "Sent to mail"
+msgstr ""
+
+#: included/templates/topheadcart.php:22
+msgid "My cart"
+msgstr ""
+
+#: included/templates/topheadcart.php:26
+msgid "View your shopping cart"
+msgstr ""
+
+#: included/theme-function/rit-function.php:66 
+#: included/theme-function/rit-function.php:69
+msgid "View all posts in %s"
+msgstr ""
+
+#: included/theme-function/rit-function.php:86
+msgid "Sidebar 1"
+msgstr ""
+
+#: included/theme-function/rit-function.php:94
+msgid "Sidebar 2"
+msgstr ""
+
+#: included/theme-function/rit-function.php:102
+msgid "Top left header"
+msgstr ""
+
+#: included/theme-function/rit-function.php:110
+msgid "Top right header"
+msgstr ""
+
+#: included/theme-function/rit-function.php:118
+msgid "Main header"
+msgstr ""
+
+#: included/theme-function/rit-function.php:126
+msgid "Center header"
+msgstr ""
+
+#: included/theme-function/rit-function.php:128
+msgid "Use for header default style 3"
+msgstr ""
+
+#: included/theme-function/rit-function.php:135
+msgid "Top Footer 1"
+msgstr ""
+
+#: included/theme-function/rit-function.php:143
+msgid "Top Footer 2"
+msgstr ""
+
+#: included/theme-function/rit-function.php:151
+msgid "Footer info"
+msgstr ""
+
+#: included/theme-function/rit-function.php:159
+msgid "Footer 1"
+msgstr ""
+
+#: included/theme-function/rit-function.php:167
+msgid "Footer 2"
+msgstr ""
+
+#: included/theme-function/rit-function.php:175
+msgid "Footer 3"
+msgstr ""
+
+#: included/theme-function/rit-function.php:183
+msgid "Footer 4"
+msgstr ""
+
+#: included/theme-function/rit-function.php:191
+msgid "Footer 4 for footer white"
+msgstr ""
+
+#: included/theme-function/rit-function.php:199
+msgid "Bottom main footer"
+msgstr ""
+
+#: included/theme-function/rit-function.php:207
+msgid "Bottom footer"
+msgstr ""
+
+#: included/theme-function/rit-function.php:215
+msgid "Left product sidebar"
+msgstr ""
+
+#: included/theme-function/rit-function.php:223
+msgid "Footer 1 Dark footer"
+msgstr ""
+
+#: included/theme-function/rit-function.php:231
+msgid "Footer 2 Dark footer"
+msgstr ""
+
+#: included/theme-function/rit-function.php:239
+msgid "Footer 3 Dark footer"
+msgstr ""
+
+#: included/theme-function/rit-function.php:265
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: included/theme-function/rit-function.php:268
+msgid "<h5 class=\"username\">%s</h5>"
+msgstr ""
+
+#: included/theme-function/rit-function.php:269
+msgid "<p class=\"date-post\">%1$s at %2$s</p>"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own language.
+#: included/theme-function/rit-function.php:317
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own language.
+#: included/theme-function/rit-function.php:325
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own language.
+#: included/theme-function/rit-function.php:333
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: To add an additional character subset specific to your language,
+#. translate this to 'greek', 'cyrillic', 'devanagari' or 'vietnamese'. Do not translate into your own language.
+#: included/theme-function/rit-function.php:341
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: included/widgets/img-hover.php:36
+msgid "Easy add image for sidebar."
+msgstr ""
+
+#: included/widgets/img-hover.php:42
+msgid "RIT: Image Sidebar"
+msgstr ""
+
+#: included/widgets/img-hover.php:120 
+#: included/widgets/recent-post-sidebar.php:52 
+#: included/widgets/recent-post.php:103 included/widgets/search.php:46
+msgid "Title:"
+msgstr ""
+
+#: included/widgets/img-hover.php:126
+msgid "Image:"
+msgstr ""
+
+#: included/widgets/img-hover.php:132
+msgid "Select Image"
+msgstr ""
+
+#: included/widgets/img-hover.php:135
+msgid "Caption:"
+msgstr ""
+
+#: included/widgets/img-hover.php:140
+msgid "Link:"
+msgstr ""
+
+#: included/widgets/img-hover.php:146
+msgid "Text Link:"
+msgstr ""
+
+#: included/widgets/img-hover.php:153
+msgid "Open in new tabs:"
+msgstr ""
+
+#: included/widgets/img-hover.php:166
+msgid "Image align:"
+msgstr ""
+
+#: included/widgets/img-hover.php:171
+msgid "Center"
+msgstr ""
+
+#: included/widgets/img-hover.php:174
+msgid "Left"
+msgstr ""
+
+#: included/widgets/img-hover.php:176
+msgid "Right"
+msgstr ""
+
+#: included/widgets/img-hover.php:181
+msgid "Class:"
+msgstr ""
+
+#: included/widgets/recent-post-sidebar.php:15
+msgid "Display recent posts in sidebar."
+msgstr ""
+
+#: included/widgets/recent-post-sidebar.php:16
+msgid "RIT: Recent Posts for sidebar"
+msgstr ""
+
+#: included/widgets/recent-post-sidebar.php:63
+msgid "Total posts display:"
+msgstr ""
+
+#: included/widgets/recent-post.php:19
+msgid ""
+"A widget that displays your latest posts from all categories or a certain"
+msgstr ""
+
+#: included/widgets/recent-post.php:25
+msgid "Bunga: Latest Posts"
+msgstr ""
+
+#: included/widgets/recent-post.php:58 included/widgets/recent-post.php:62
+msgid "Permanent Link: "
+msgstr ""
+
+#: included/widgets/recent-post.php:98
+msgid "Latest Posts"
+msgstr ""
+
+#: included/widgets/recent-post.php:109
+msgid "Filter by Category:"
+msgstr ""
+
+#: included/widgets/recent-post.php:121
+msgid "Number of posts to show:"
+msgstr ""
+
+#: included/widgets/search.php:15
+msgid "A search form for your site."
+msgstr ""
+
+#: included/widgets/search.php:16
+msgid "RIT: Search"
+msgstr ""
+
+#: rit-core/woocommerce-item/filter-block.php:15 
+#: rit-core/woocommerce-item/filter-block.php:15 
+#: rit-core/woocommerce-item/filter-block.php:53
+msgid "All"
+msgstr ""
+
+#: rit-core/woocommerce-item/filter-block.php:54
+msgid "Featured product"
+msgstr ""
+
+#: rit-core/woocommerce-item/filter-block.php:55
+msgid "Onsale product"
+msgstr ""
+
+#: rit-core/woocommerce-item/filter-block.php:56
+msgid "Best Selling"
+msgstr ""
+
+#: rit-core/woocommerce-item/filter-block.php:57
+msgid "Latest product"
+msgstr ""
+
+#: rit-core/woocommerce-item/filter-block.php:58
+msgid "Top rate product"
+msgstr ""
+
+#: rit-core/woocommerce-item/filter-block.php:59
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: rit-core/woocommerce-item/filter-block.php:60
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: rit-core/woocommerce-item/filter-block.php:151
+msgid "Reset Filter"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:21
+msgid "Payment menthod"
+msgstr ""
+
+#: woocommerce/global/status-order.php:23
+msgid "Shopping cart"
+msgstr ""
+
+#: woocommerce/global/status-order.php:32
+msgid "Check Out"
+msgstr ""
+
+#: woocommerce/global/status-order.php:42
+msgid "Order Complete"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:35
+msgid "Add your review"
+msgstr ""
+
+#: woocommerce/single-product/share.php:18
+msgid "Share on: "
+msgstr ""
+
+#: included/templates/header/header-canvas.php:37 
+#: included/templates/header/header-default-style-3.php:63 
+#: included/templates/header/header-oneline-2.php:40 
+#: included/templates/header/header-oneline.php:42 
+#: included/templates/header/header-responsive.php:59 
+#: included/templates/header/header-simpleline.php:26 
+#: included/templates/header/header-transparent.php:40
+msgid "Type & Hit Enter..."
+msgstr ""
+
+#. Name of the theme
+msgid "Ri Everest"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Ri Everest is a fully Responsive Wordpress Woocommerce Theme that is "
+"extremely customizable, easy to use and suitable for every type of business, "
+"portfolio, blog and ecommerce sites."
+msgstr ""
+
+#. URI of the theme
+msgid "http://wp.rivertheme.com/ri-everest"
+msgstr ""
+
+#. Author of the theme
+msgid "ZooTemplate"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.zootemplate.com/"
+msgstr ""

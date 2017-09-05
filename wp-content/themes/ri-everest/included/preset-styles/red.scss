@@ -1,0 +1,863 @@
+$main-color: #ec3925;
+$main-color-transparent:rgba(255, 79, 79, 0.8);
+.input-text:focus, .text:focus {
+  border-color: $main-color;
+}
+.main-color{
+  color:$main-color;
+}
+a {
+  color: $main-color;
+}
+
+.top-nav {
+  > ul > li:hover > a {
+    color: $main-color;
+  }
+  > ul ul {
+
+    background: $main-color;
+  }
+}
+
+.icon-around {
+  border: 1px solid $main-color;
+  color: $main-color;
+  i {
+    color: $main-color;
+  }
+  &:hover {
+    background: $main-color;
+  }
+}
+
+.btn {
+  background: $main-color;
+}
+
+.top-header-contact {
+  a {
+    color: $main-color;
+  }
+}
+
+.list-btn-header li:hover {
+  #activesearch > i {
+    color: $main-color;
+  }
+  #topcart .btn-header {
+    span {
+      border-color: $main-color;
+      color: $main-color;
+      &:after {
+        border-color: $main-color;
+      }
+    }
+  }
+}
+
+#primary-nav, #mega-menu-wrap-primary {
+  > ul > li:hover, > ul > li.active {
+    color: $main-color
+  }
+  > ul > li:hover{
+    color: $main-color;
+  }
+  > ul li ul li:hover{
+    color: $main-color;
+  }
+  > ul li ul li:hover > a:before {
+    color: $main-color;
+  }
+}
+
+.list-btn-header > li:hover .btn-header:after {
+  border-color: transparent transparent $main-color;
+}
+
+.list-btn-header > li:hover span.btn-header {
+  color: $main-color;
+}
+.label-btn-header {
+  color: $main-color;
+}
+
+.title-widget:after {
+  background: $main-color;
+}
+
+#rit-bottom-footer .copy-right a:hover {
+  color: $main-color;
+}
+
+.grid-layout, .rit-smart-layout{
+  .button.yith-wcqv-button {
+    background: $main-color !important;
+  }
+}
+
+.product_type_simple:hover, .btn-whishlist:hover, .product_type_variable:hover, .added_to_cart:hover {
+  background: $main-color-transparent !important;
+}
+
+.newsletter-widget {
+  .newsletter-submit {
+    background: $main-color;
+  }
+}
+
+.product-cat a:hover {
+  color: $main-color;
+}
+
+.widget_meta, .widget_categories, .widget_archive {
+  a:hover {
+    color: $main-color;
+    border-color: $main-color;
+  }
+}
+
+.star-rating span {
+  &, &:before {
+    color: $main-color !important;
+  }
+}
+
+.woocommerce .star-rating:before {
+  color: $main-color !important;
+}
+
+/*---------Breadcrumb css--------*/
+.wrapper-breadcrumb li a:hover {
+  color: $main-color;
+}
+
+.wrapper-breadcrumb li.trail-item a:hover span {
+  color: $main-color;
+}
+
+/*-----------End breadcrumb css--------------*/
+
+/*----------Sidebar-----------*/
+/*-------Main content-------*/
+.sidebar-item {
+  a {
+    color: $main-color;
+  }
+}
+.sidebar a:hover{
+  color: $main-color;
+}
+.sidebar ul:not(.rit_rpw):not(.product_list_widget) li::before{
+  background: $main-color
+}
+.rit_rpw_info h4 a:hover {
+  color: $main-color !important;
+}
+
+.widget-item {
+  li {
+    a:hover {
+      color: $main-color;
+    }
+  }
+}
+.btn-readmore:hover{
+  color: $main-color;
+  &:after{
+    background: $main-color;
+  }
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle.ui-state-hover {
+  background: $main-color !important;
+}
+
+.woocommerce .widget_price_filter .price_slider_wrapper .price_slider_amount {
+  .button:hover {
+    background: $main-color;
+  }
+}
+
+/*----------End sidebar-----------*/
+/*-----Woo css----*/
+.selectric .button {
+  background: $main-color;
+  border-radius: 0;
+}
+
+.selectric-hover .selectric {
+  border-color: $main-color;
+}
+
+.pageview {
+  .pageviewitem.active, .pageviewitem:hover {
+    color: $main-color;
+  }
+}
+
+.cart .quantity span
+.button:hover, .btn-wishlist:hover, .compare-button:hover {
+  background: $main-color-transparent !important;
+}
+
+.product-name a:hover {
+  color: $main-color;
+}
+
+/*******Detail product page*******/
+#slider-prev, #slider-next {
+  &:hover:after {
+    color: $main-color;
+  }
+}
+
+.woo-summary, .entry-summary.summary {
+  .cart .quantity span:hover {
+    cursor: pointer;
+  }
+  .product_meta {
+    a:hover {
+      color: $main-color;
+    }
+  }
+  .woo-add-review:hover {
+    color: $main-color !important;
+  }
+  .cart .single_add_to_cart_button, .single_variation_wrap .variations_button .single_add_to_cart_button.button.alt{
+    background: $main-color;
+    border-color: $main-color;
+  }
+  .stock.in-stock {
+    color: $main-color !important;
+  }
+  .yith-wcwl-add-to-wishlist.button:hover {
+    color: $main-color !important;
+  }
+  .product_meta a:hover {
+    color: $main-color;
+  }
+  .woo-custom-share {
+    a:hover {
+      border-color: $main-color;
+      background: transparent;
+      i {
+        color: $main-color;
+      }
+    }
+  }
+}
+
+.zoom-label:hover {
+  cursor: pointer;
+  i {
+    color: $main-color;
+  }
+}
+
+.button:hover {
+  background: $main-color;
+}
+
+.woo-summary .compare.button:hover {
+  @extend .button
+}
+
+.rit-woocommerce-tabs .panel {
+  a:hover {
+    color: $main-color;
+  }
+}
+
+.woocommerce .wrapper-detail-product-info .rit-woocommerce-tabs .panel .comment-form p.form-submit input.submit:hover {
+  background: $main-color !important;
+  border-color: $main-color !important;
+}
+
+.txt-area:focus {
+  border-color: $main-color;
+}
+
+#mini-cart {
+  .button{
+    background: $main-color;
+  }
+}
+
+/*--------Cart page------*/
+.woocommerce-cart {
+  #coupon_code {
+    &:focus {
+      border-color: $main-color !important;
+    }
+  }
+  .woocommerce .button:hover, .button:hover {
+    background: $main-color !important;
+    border-color: $main-color;
+  }
+}
+
+.woocommerce-shipping-calculator .shipping-calculator-button:hover, .woocommerce-shipping-calculator .shipping-calculator-button:active {
+  background: $main-color;
+}
+
+.woocommerce-shipping-fields {
+  .form-row {
+    .input-text:focus {
+      border-color: $main-color;
+    }
+  }
+}
+.woocommerce-checkout-review-order .amount{
+  color: $main-color !important;
+}
+.place-order .button.alt:hover {
+  background: $main-color !important;
+}
+
+.woocommerce .woocommerce-info::before {
+  color: $main-color !important;
+}
+
+.woocommerce .woocommerce-info {
+  border-top-color: $main-color !important;
+}
+
+.form-row .button:hover {
+  background: $main-color !important;
+}
+
+.woocommerce-message {
+  border-left-color: $main-color;
+}
+.wrapper-status-order{
+  li.active{
+    span.step{
+      background: $main-color;
+    }
+    i{
+      border-color: $main-color;
+      color: $main-color;
+    }
+    &:after{
+      border-color: $main-color;
+    }
+  }
+}
+/*--------End Cart page------*/
+.woocommerce {
+  .list-layout {
+    .button {
+      &:hover {
+        color: $main-color !important;
+        span {
+          color: $main-color !important;
+        }
+        &:before {
+          color: $main-color !important;
+        }
+      }
+    }
+    .btn-wishlist:hover {
+      color: $main-color !important;
+    }
+
+  }
+}
+
+/*------End woo css-----*/
+/*-------End main content-------*/
+/*-----------Blog medium (standard) layout-----------*/
+.rit-blog-medium-layout.rit-news-item {
+  .title-news a:hover, .author-link:hover {
+    color: $main-color;
+  }
+  .info-post i {
+    color: $main-color;
+  }
+  .list-cat a {
+    color: $main-color;
+  }
+}
+.title-news:hover{
+  color: $main-color;
+}
+.rit-news-info {
+  .title-news a:hover {
+    color: $main-color;
+  }
+  .btn-blog {
+    background: $main-color;
+  }
+
+}
+
+.rit-news-item {
+  .everest-readmore {
+    color: $main-color;
+    &:after {
+      background: $main-color
+    }
+  }
+  .share-links a > i {
+    color: $main-color;
+  }
+}
+
+.rit-post-large, .news-info {
+  .list-cat a {
+    color: $main-color !important;
+  }
+}
+
+.image-blog {
+  .wrapper-img {
+    border-bottom: 2px solid $main-color;
+  }
+  .label-image {
+    background: $main-color;
+  }
+}
+
+/*-----------End Blog medium (standard) layout-----------*/
+#back-to-top{
+  background: $main-color;
+}
+
+.post-slider.owl-theme .owl-controls{
+  div:hover {
+    background: $main-color !important;
+  }
+}
+
+/*------------Detail post---------*/
+.detail-post .share-links li a:hover {
+  background: $main-color;
+  border-color: $main-color;
+}
+
+.detail-post {
+  .tags-list {
+    a {
+      color: $main-color;
+    }
+  }
+  .post-info a:hover {
+    color: $main-color;
+  }
+  .post-content {
+    a:hover, abbr, acronym {
+      color: $main-color;
+    }
+
+  }
+}
+
+.comment-reply-title {
+  @extend .title-widget
+}
+
+.author-content {
+  .title:hover {
+    color: $main-color;
+  }
+}
+
+.author-socail {
+  a:hover {
+    color: $main-color;
+  }
+}
+
+.item-related {
+  a:hover {
+    color: $main-color;
+  }
+}
+
+.comment-form {
+  a:hover {
+    color: $main-color;
+  }
+}
+
+.info-cmmt {
+  .username:hover {
+    color: $main-color;
+    a {
+      color: $main-color;
+    }
+  }
+  > p {
+    a:hover {
+      color: $main-color;
+    }
+  }
+}
+.btn-black:hover{
+  background: $main-color !important;
+}
+.pager {
+  .page-numbers.current, .page-numbers:hover {
+    background: $main-color !important;
+  }
+}
+.other-link a{
+  background: $main-color;
+}
+/*------------End Detail post---------*/
+.tparrows.Everest-nav:hover {
+  .arrow-nav {
+    background: $main-color-transparent;
+  }
+}
+
+#wpaft-logo-slider .owl-controls .owl-buttons {
+  div:hover {
+    background: $main-color
+  }
+}
+
+/*--------404 page---------*/
+.back-home:hover {
+  border-color: $main-color !important;
+  background: $main-color;
+}
+
+/*--------End 404 page---------*/
+/*-------Full width page-----*/
+.new-products:not(.default):not(.product_style_3):not(.product_style_4):not(.product_style_5):not(.product_style_6)  {
+  .owl-controls .owl-buttons {
+    div:hover {
+      background: $main-color !important;
+    }
+  }
+}
+.new-products.product_style_3, .rit-product-deal.product_style_3,.product_style_4{
+  .owl-controls .owl-buttons {
+    div:hover i{
+      color: $main-color;
+    }
+  }
+}
+.rit-blog-grid-layout {
+  .title-news a:hover{
+    color: $main-color;
+  }
+}
+
+/*-------End Full width page-----*/
+/*----------Bx slider-----------*/
+.bx-controls {
+  .bx-controls-direction {
+    a:hover {
+      background: $main-color-transparent;
+    }
+  }
+}
+
+.ct-socail {
+  a:hover {
+    i {
+      color: $main-color;
+    }
+  }
+}
+
+.contact-form .wpcf7-submit:hover {
+  background: $main-color;
+}
+
+/*----------End Bx slider-----------*/
+/*--------Quick view css-------*/
+/*--------Quick view css-------*/
+.home-2-banner {
+  a.btn:hover {
+    background: $main-color;
+  }
+}
+
+.brand-block.style-1 {
+  .bx-controls-direction {
+    a:hover {
+      background: $main-color;
+      border-color: $main-color;
+    }
+  }
+}
+
+.rit-element-image-hover.style-1 {
+  .content h3 {a:hover {
+    color: $main-color;
+  }
+  }
+  .btn-img-hover{
+    background: $main-color;
+  }
+}
+.rit-element-image-hover.style-3{
+  .btn-img-hover{
+    background: $main-color;
+  }
+}
+.rit-element-image-hover.style-5 {
+  .border-mask {
+    background: $main-color-transparent;
+  }
+}
+
+.rit-element-image-hover.style-4 {
+  .caption h4 {
+    color: $main-color;
+  }
+}
+
+/*------Header default-----*/
+.header-default {
+  #mega-menu-primary, #menu-primary{
+    &>li:hover, &>li.mega-current-menu-item, &>li.current-menu-item{
+      background: $main-color;
+    }
+  }
+}
+.header-default-style-2{
+  .wrapp-sec-nav h3{
+    background: $main-color;
+  }
+}
+.wrapp-sec-nav>ul li ul a:hover{
+  color: $main-color;
+}
+#copy-right a, #copy-right i{
+  color: $main-color;
+}
+/*------End Header default-----*/
+/*==========Header Oneline=============*/
+.header-oneline{
+  #mega-menu-primary, #menu-primary{
+    &>li:hover{
+      &>a{
+        color: $main-color !important;
+      }
+    }
+  }
+}
+/*==========End Header Oneline=============*/
+/*============Responsive header=============*/
+#top-header {
+  a:hover {
+    color: $main-color;
+  }
+}
+
+/*============End Responsive header=============*/
+/*=========Header canvas=========*/
+.header-canvas {
+  #activesearch {
+    i:hover {
+      color: $main-color;
+    }
+  }
+}
+
+/*=========End Header canvas=========*/
+.rit-Everest-blog-grid-layout.blog_style_2 .rit-news-info {
+  .title-news a:hover, .post-info a:hover, .Everest-readmore:hover {
+    color: $main-color;
+  }
+}
+
+.rit-Everest-blog-grid-layout.default {
+  .Everest-readmore:hover {
+    color: $main-color;
+  }
+}
+
+.blog_style_1.rit-Everest-blog-grid-layout {
+  .Everest-readmore {
+    &:hover {
+      color: $main-color;
+    }
+  }
+}
+
+/*===========Header oneline===========*/
+.header-oneline {
+  .list-btn-header .label-btn-header {
+    background: $main-color;
+  }
+  #topcart .btn-header:after{
+    color: $main-color;
+  }
+}
+
+/*===========End Header oneline===========*/
+/*--------Footer big info 2---------*/
+.rit-footer-big-info-2 {
+  .top-footer {
+    background: $main-color;
+    .rit-socail-page a.socail-item:hover {
+      i {
+        color: $main-color !important;
+      }
+    }
+  }
+
+}
+#rit-footer-white{
+  .newsletter-submit:hover{
+    background: $main-color;
+  }
+}
+/*--------End Footer big info 2---------*/
+.wrapper-loadmore #loadmore-button:hover {
+  background: $main-color;
+  border-color: $main-color;
+}
+
+/*==========Grid button==========*/
+.grid-layout, .woocommerce .grid-layout {
+  .button:hover {
+    color: $main-color;
+    i, span {
+      color: $main-color;
+    }
+  }
+}
+
+/*==========End Grid button==========*/
+/*=======Pagination owl slider=======*/
+.rit-slider-pagination .products-carousel-list {
+  .owl-controls .owl-page {
+    span {
+      border-color: $main-color !important;
+      background: $main-color;
+    }
+
+  }
+}
+
+/*=======End Pagination owl slider=======*/
+.sidebar .product-categories {
+  a:hover {
+    color: $main-color;
+  }
+  li {
+    &:before {
+      background: $main-color;
+    }
+
+  }
+}
+.nav-hotline{
+  background: $main-color;
+}
+.btn-border:hover{
+  background: $main-color;
+  border-color: $main-color;
+}
+.btn-fslider{
+  background: $main-color;
+}
+.wrapper-imgs-gallery .owl-buttons>div:hover{
+  i{
+    color: $main-color;
+  }
+}
+.tp-caption .btn-secfslider:hover{
+  background: $main-color;
+  border-color: $main-color;
+}
+#primary-menu.nav-menu>ul>li:hover{
+  background: $main-color;
+}
+ul#primary-menu.nav-menu>li:hover{
+  background: $main-color;
+}
+#rit-footer-default-2 {
+  .eva-social-icon a:hover{
+    background: $main-color;
+  }
+}
+#rit-footer-default-2, #rit-footer-dark{
+  .widget_newsletterwidget .newsletter-submit {
+    background: $main-color;
+  }
+}
+#rit-footer-dark{
+  .rit-socail-page .socail-item:hover i{
+    color: $main-color;
+  }
+}
+.btn-view, .btn-primary{
+  background: $main-color;
+}
+.product_style_5.new-products{
+  .title span{
+    color: $main-color;
+  }
+}
+.rit-testimonial-shortcode{
+  &.style-4{
+    .title, .testimonial-author{
+      color: $main-color;
+    }
+  }
+}
+.rit-blog-grid-layout.h7-block.blog_style_1{
+  .title span{
+    color: $main-color;
+  }}
+#rit-footer-dark .title-widget span{
+  border-color: $main-color;
+}
+#place_order{
+  background: $main-color;
+}
+.everest-notice{
+  a{
+    color: $main-color;
+  }
+}
+.wc-proceed-to-checkout .checkout-button.btn-black.wc-forward{
+  background: $main-color;
+}
+.woocommerce .woo-summary{
+  p.cart{
+    a.single_add_to_cart_button{
+      background: $main-color;
+    }
+  }
+}
+.product_style_6{
+  .label-new{
+    background: $main-color;
+  }
+}
+.rit-element-image-hover.style-12  .btn-img-hover{
+  background: $main-color;
+}
+.woocommerce-MyAccount-navigation .is-active>a, .woocommerce-MyAccount-navigation li:hover>a{
+  color: $main-color;
+}
+.filter-trigger{
+  background: $main-color;
+}
+.woo-category-page .prdctfltr_wc.prdctfltr_round .prdctfltr_filter label{
+  &:hover>span:after, &.prdctfltr_active>span:after, &:hover,&.prdctfltr_active{
+    color: $main-color;
+  }
+}
+.woo-category-page {
+  .pf_rngstyle_html5 .irs-bar{
+    background: $main-color;
+    border-color: $main-color;
+  }
+  .pf_rngstyle_html5 .irs-from, .pf_rngstyle_html5 .irs-to, .pf_rngstyle_html5 .irs-single{
+    background: $main-color;
+  }
+}
+#mini-cart{
+  &:after,&:before{
+    background: $main-color;
+  }
+}

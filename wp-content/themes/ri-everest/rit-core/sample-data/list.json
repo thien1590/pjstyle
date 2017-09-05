@@ -1,0 +1,86 @@
+{
+	"home-landing": {
+		"name": "Home Landing",
+		"des": "Header transparent / Default preset style",
+		"path": "home-landing",
+		"type": ["landing"]
+	},
+	"home-default": {
+		"name": "Home Default",
+		"des": "Header Default / Default preset style",
+		"path": "home-default",
+		"type": ["shop"]
+	},	
+	"home-flower": {
+		"name": "Home Flower",
+		"des": "Header One line / Green preset style / Footer white style",
+		"path": "home-2",
+		"type": ["shop"]
+	},
+	"home-3": {
+		"name": "Home 3",
+		"des": "Header Oneline 2 / Default preset style/Footer Default style 2/ Revolution Slider",
+		"path": "home-3",
+		"type": ["shop"]
+	},
+	"home-4": {
+		"name": "Home 4",
+		"des": "Header default style 2 / Default preset style",
+		"path": "home-4",
+		"type": ["shop"]
+	},
+	"home-5": {
+		"name": "Home 5",
+		"des": "Header default style 2 / Default preset style",
+		"path": "home-5",
+		"type": ["shop"]
+	},
+	"home-6": {
+		"name": "Home 6",
+		"des": "Header default style 2 / Default preset style",
+		"path": "home-6",
+		"type": ["shop"]
+	},
+	"home-7": {
+		"name": "Home 7",
+		"des": "Header transparent / Default Goldenrod / Footer dark style",
+		"path": "home-7",
+		"type": ["shop"]
+	},
+	"home-8": {
+		"name": "Home 8",
+		"des": "Header Style 3 / Default Red / Footer dark style",
+		"path": "home-8",
+		"type": ["shop"]
+	},
+	"about": {
+		"name": "About us",
+		"des": "Header One line / Green preset style / Footer white style",
+		"path": "about-1",
+		"type": ["about"]
+	},
+	"about-2": {
+		"name": "About us 2",
+		"des": "Header default / Default preset style",
+		"path": "about-2",
+		"type": ["about"]
+	},
+	"about-3": {
+		"name": "About us 3",
+		"des": "Header default / Default preset style / Revolution Slider",
+		"path": "about-3",
+		"type": ["about"]
+	},
+	"about-4": {
+		"name": "About us 4",
+		"des": "Header default / Default preset style",
+		"path": "about-4",
+		"type": ["about"]
+	},
+	"about-5": {
+		"name": "About us 5",
+		"des": "Header transparent / Default preset style",
+		"path": "about-5",
+		"type": ["about"]
+	}
+}
